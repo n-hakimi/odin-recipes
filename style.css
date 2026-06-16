@@ -1,0 +1,17 @@
+* {
+    outline: 1px solid red;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: antiquewhite;
+    background-color: #181e26;
+}
+
+a {
+    color: antiquewhite;
+}
+
+a:hover {
+    color: blue;
+}
